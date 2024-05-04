@@ -17,10 +17,12 @@
 
 ### Screenshot
 
+![](./images/solution-screenshot.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/surrealgee/qr-code-component
+- Live Site URL: https://surrealgee.github.io/qr-code-component/
 
 ## My process
 
@@ -31,9 +33,21 @@
 
 ### What I learned
 
+This one was pretty easy to complete, my intention here was to get started with project based learning.
+
+I intent to develop new projects every week to find gaps in my knowledge and become a better developer overall.
+
 ### Continued development
 
+I don't see the need to add more features to this projects for the moment.
+
+What I want to do is improve my writing skills be writing documentation about my projects.
+
+That's why started with this easy one so I could focus on writing this document and establishing a baseline for future projects.
+
 ### Useful resources
+
+https://fonts.google.com/
 
 ## Author
 
