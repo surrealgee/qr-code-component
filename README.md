@@ -17,10 +17,12 @@
 
 ### Screenshot
 
+![](./images/solution-screenshot.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/surrealgee/qr-code-component
+- Live Site URL: https://surrealgee.github.io/qr-code-component/
 
 ## My process
 
