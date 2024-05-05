@@ -30,7 +30,7 @@ body {
 
 .card h1 {
   color: #1f314f;
-  font-size: 22px;
+  font-size: 1.375rem;
   font-weight: 700;
   padding: 0 0.25em;
   margin-block-end: 1em;
@@ -38,7 +38,7 @@ body {
 
 .card p {
   color: #7d889e;
-  font-size: 15px;
+  font-size: 93.75rem;
   padding: 0 1em;
   margin-block-end: 1.5em;
 }
